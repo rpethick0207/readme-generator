@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/negativeh0ll0w/readme-generator.git"
+    "url": "git+https://github.com/rpethick0207/readme-generator"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/negativeh0ll0w/readme-generator/issues"
+    "url": "https://github.com/rpethick0207/readme-generator/issues"
   },
-  "homepage": "https://github.com/negativeh0ll0w/readme-generator#readme",
+  "homepage": "https://github.com/rpethick0207/readme-generator#readme",
   "dependencies": {
     "inquirer": "^8.2.4"
   }
